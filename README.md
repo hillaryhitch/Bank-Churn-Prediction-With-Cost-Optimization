@@ -20,7 +20,7 @@ The notebook is exploratory in searching through the data pertaining to the ques
 There is a data file; Churn_Modelling.csv
 
 # Results
-The main findings of the code can be found at the post available here.
+The main findings of the code can be found at the post available [here](https://medium.com/@hitchthegoon/5-things-you-should-do-to-reduce-churn-with-costs-optimization-f9d0d45f6cf5).
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Kaggle for the data. You can find the Licensing for the data and other descriptive information at the Kaggle.com
