@@ -1,6 +1,5 @@
 
-![Churn Prediction With Cost Optimization](/docs/Screenshot 2021-08-31 at 23.10.06.png)
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Churn Prediction With Cost Optimization](https://github.com/hillaryhitch/Bank-Churn-Prediction-With-Cost-Optimization/blob/main/docs/Screenshot%202021-08-31%20at%2023.10.06.png)
 
 
 # Installation
