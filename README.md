@@ -1,6 +1,6 @@
 
 ![Churn Prediction With Cost Optimization](/docs/Screenshot 2021-08-31 at 23.10.06.png)
-
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 # Installation
