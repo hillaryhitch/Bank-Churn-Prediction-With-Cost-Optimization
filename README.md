@@ -1,3 +1,5 @@
+![Churn Prediction With Cost Optimization](/images/logo.png)
+
 # Installation
 Ther should be no issues when running th code with python3, the libraries used are:
 
