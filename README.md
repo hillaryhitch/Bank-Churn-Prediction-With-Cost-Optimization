@@ -1,4 +1,7 @@
-![Churn Prediction With Cost Optimization](/images/logo.png)
+
+![Churn Prediction With Cost Optimization]('./docs/Screenshot 2021-08-31 at 23.10.06.png')
+
+
 
 # Installation
 Ther should be no issues when running th code with python3, the libraries used are:
